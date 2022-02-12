@@ -1,0 +1,10 @@
+.buttons {
+  position: absolute;
+  top: 20px;
+  right: 0;
+  top: -40px;
+}
+
+.button {
+  margin: 2px;
+}

@@ -1,0 +1,24 @@
+.board {
+  background: rgb(211, 211, 211);
+  border-radius: 5px;
+  min-height: 200px;
+  margin-top: 60px;
+  position: relative;
+}
+
+.board-title {
+  padding: 10px;
+  background: rgb(228, 228, 228);
+  border-bottom: 1px solid rgb(255, 255, 255);
+  word-wrap: break-word;
+  margin-bottom: 10px;
+}
+
+.board-content {
+  padding: 5px;
+}
+
+.nav-panel {
+  text-align: center;
+  margin-top: 10px;
+}
